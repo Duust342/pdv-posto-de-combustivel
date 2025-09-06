@@ -1,0 +1,19 @@
+# Itens de backlog 1.1
+
+1 - Novo Produto: Funcionalidades que ainda não existem no produto;
+2 - Melhorias: Alterações em recursos existentes para aprimorar a experiência do usuário.
+3 - Bugs: Defeitos e falhas;
+4 - Dívida Técnica: rabalho necessário para refatorar o código;
+5 - Mudanças do Design e Problemas do UX: Alterações necessárias para melhorar a aparência do produto;
+6 - Aquisição do Conhecimento (Spikes): Investigação ou protótipo para mitigar dúvidas;
+7 - Solicitações do Clientes e Partes: Demandas vindas do usuários e outras pessoas envolvidas no projeto;
+
+1.1 - Requisitos não Funcionais:
+    1.1.1 BackEnd desenvolvido em java 15, utilizando Maven para gestão de dependência do projeto.
+    # BackEnd desenvolvido em java versão 15;
+    # Maven para gestão de dependência do projeto.
+    # Swing para interface com o usuário.
+    # Versionamento do projeto: Git/Github.
+
+1.2 - Requisitos Funcionais
+    1.2.1 Login do usuário;
